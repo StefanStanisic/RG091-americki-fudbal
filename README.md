@@ -35,4 +35,4 @@ To install the game you first need to clone it to your pc and then type **make**
 | l  | Throw to first receiver  |
 | k  | Throw to second receiver  |
 | j  | Throw to third receiver  |
-| h  | Throw to forth receiver  |
+| h  | Throw to fourth receiver  |
